@@ -5,10 +5,9 @@
             "name": "vikash",
             "email": "vikashkm@gmail.com",
             "password":"sfdfnd"
-           
-          }
-    ],
-    "login":[],
-    "data":[]
+          } 
+         ],
+     "login":[],
+    "patients":[]
    
 }
