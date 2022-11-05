@@ -1,34 +1,39 @@
 
 {
-  "cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    }
-  ],
-"wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    }
-  ]
+  "users": [{
+  "id": 1,
+  "name": "Prescott",
+  "email": "ptabert0@europa.eu",
+  "phone": "7864888043",
+  "gender": "Male",
+  "hobbies": "MINI"
+}, {
+  "id": 2,
+  "name": "Clifford",
+  "email": "clarkings1@t-online.de",
+  "phone": "9387662568",
+  "gender": "Female",
+  "hobbies": "Dodge"
+}, {
+  "id": 3,
+  "name": "Meade",
+  "email": "medeler2@mail.ru",
+  "phone": "8651203796",
+  "gender": "Male",
+  "hobbies": "Chevrolet"
+}, {
+  "id": 4,
+  "name": "Marchall",
+  "email": "mkenan3@bbb.org",
+  "phone": "3694868112",
+  "gender": "Polygender",
+  "hobbies": "Chevrolet"
+}, {
+  "id": 5,
+  "name": "Roscoe",
+  "email": "rpopplewell4@auda.org.au",
+  "phone": "5187751499",
+  "gender": "Male",
+  "hobbies": "Saab"
+}]
 }
